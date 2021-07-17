@@ -1,0 +1,19 @@
+.classes
+.svn
+.git
+.war
+.jar
+.imp
+.impl
+.zip
+.rar
+.log
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
